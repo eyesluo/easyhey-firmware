@@ -1,0 +1,4 @@
+interface:
+  display_name: "固件羊固件管理"
+  short_description: "微信扫码授权后直接调用 API，查询、修改、上传和发布固件并核验结果"
+  default_prompt: "使用 $easyhey-firmware 通过 API 管理我的固件；需要登录时显示微信扫码二维码。"
